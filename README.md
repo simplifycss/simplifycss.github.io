@@ -79,7 +79,7 @@
               <a class="navigation__link" href="#section-tabs">Tabs</a>
             </li>
           </ul>
-          <div class="nav-header">
+          <!---<div class="nav-header">
             Angular
           </div>
           <ul>
@@ -89,7 +89,7 @@
             <li>
               <a class="navigation__link" href="#section-scrollspy">Scrollspy</a>
             </li>
-          </ul>
+          </ul> -->
         </nav>
       </div>
       <div id="content">
