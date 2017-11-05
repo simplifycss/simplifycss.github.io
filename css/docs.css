@@ -235,8 +235,9 @@ footer + .container{
 
 	footer {
 		padding: 1.5em 0;
-		text-align: left;
-		margin-left: 2rem;
-		
+		text-align: left;		
 	}
+  footer .container {
+    width:90%;
+  }
 }
